@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd scss
+sassc clean-blog.scss  > ../../felix-schwarz.name.git/themes/privatblog/assets/css/clean-blog.css
+
